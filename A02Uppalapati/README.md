@@ -1,0 +1,3 @@
+I have created a webpage where I have shared my plans, my webpage navigates to two other pages "Mychoice" and "Contact Us".
+In "My choice" I have created a "Monthly Budget Calculator", which takes Income,five different bills and calculates expenses and savings. I have used css, html, JavaScript .
+In "Contact Us" I have created a contact form which allows people viewing my page to contact me by entering their name and email details.
